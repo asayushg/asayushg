@@ -12,9 +12,6 @@
      - Personal: asayushg@gmail.com
      - School: img_2017015@iiitm.ac.in
 <br>
-<br>
-<br>
-
 ### Connect
 <p align="left">
 <a href="https://twitter.com/asayushg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
