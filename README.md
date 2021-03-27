@@ -7,7 +7,7 @@
 - 🏢 Product Developer at [LoadExx](https://loadexx.com/)
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 👨‍💻 All of my projects are available [here](https://github.com/asayushg?tab=repositories)
-- 💬 Ask me about <b>JAVA, Kotlin, Android Development</b>
+- 💬 Ask me about <b>JAVA, Kotlin, and Android Development</b>
 - - 📫 How to reach me: 
      - Personal: asayushg@gmail.com
      - School: img_2017015@iiitm.ac.in
