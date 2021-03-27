@@ -6,7 +6,7 @@
 - 🎓 Pre-Final year student pursuing Integrated B.Tech and MBA at [ABV-IIITM, Gwalior](http://www.iiitm.ac.in/index.php/en/)
 - 🏢 Product Developer at [LoadExx](https://loadexx.com/)
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- 👨‍💻 All of my projects are available <a href="https://github.com/asayushg?tab=repositories">here
+- 👨‍💻 All of my projects are available [here](https://github.com/asayushg?tab=repositories)
 - 💬 Ask me about <b>JAVA, Kotlin, Android Development</b>
 - - 📫 How to reach me: 
      - Personal: asayushg@gmail.com
