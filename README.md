@@ -19,8 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/asayushg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-saini"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-</p>
 <a href="https://www.instagram.com/saini._.ayush/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="superachnural" height="30" width="40" /></a>
+</p>
+
 
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=asayushg&count_private=true&show_icons=true&theme=highcontrast)
