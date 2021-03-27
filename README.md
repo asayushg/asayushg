@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayushg&label=Profile%20views&color=0e75b6&style=flat" alt="asayushg" /> </p>
 
-- :man_student: Pre-Final year student pursuing Integrated B.Tech and MBA at [ABV-IIITM, Gwalior.](http://www.iiitm.ac.in/index.php/en/)
+- 🎓 Pre-Final year student pursuing Integrated B.Tech and MBA at [ABV-IIITM, Gwalior](http://www.iiitm.ac.in/index.php/en/)
 - 🏢 Product Developer at [LoadExx](https://loadexx.com/)
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- 👨‍💻 All of my projects are available <a href="https://github.com/asayushg?tab=repositories">here
+- 💬 Ask me about <b>JAVA, Kotlin, Android Development</b>
 - - 📫 How to reach me: 
      - Personal: asayushg@gmail.com
      - School: img_2017015@iiitm.ac.in
@@ -18,6 +20,7 @@
 <a href="https://twitter.com/asayushg"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-saini"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
 </p>
+<a href="https://www.instagram.com/saini._.ayush/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="superachnural" height="30" width="40" /></a>
 
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=asayushg&count_private=true&show_icons=true&theme=highcontrast)
