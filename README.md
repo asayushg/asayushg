@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayushg&label=Profile%20views&color=0e75b6&style=flat" alt="asayushg" /> </p>
 
-- 🎓 Pre-Final year student pursuing Integrated B.Tech and MBA at [ABV-IIITM, Gwalior](http://www.iiitm.ac.in/index.php/en/)
+- 🎓 Final year student pursuing Integrated B.Tech and MBA at [ABV-IIITM, Gwalior](http://www.iiitm.ac.in/index.php/en/)
 - 🏢 Android Developer Intern at [Vedantu](https://www.vedantu.com/)
 - 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - 👨‍💻 All of my projects are available [here](https://github.com/asayushg?tab=repositories)
