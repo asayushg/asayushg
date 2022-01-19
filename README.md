@@ -5,12 +5,12 @@
 
 - 🎓 Final year student pursuing Integrated B.Tech and MBA at [ABV-IIITM, Gwalior](http://www.iiitm.ac.in/index.php/en/)
 - 🏢 Android Developer Intern at [Vedantu](https://www.vedantu.com/)
-- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
 - 👨‍💻 All of my projects are available [here](https://github.com/asayushg?tab=repositories)
 - 💬 Ask me about <b>JAVA, Kotlin, and Android Development</b>
 - - 📫 How to reach me: 
      - Personal: asayushg@gmail.com
-     - School: img_2017015@iiitm.ac.in
+     - College: img_2017015@iiitm.ac.in
      - Work: ayush.saini@vedantu.com
 -<br>
 
