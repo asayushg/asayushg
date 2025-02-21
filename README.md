@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayushg&label=Profile%20views&color=0e75b6&style=flat" alt="asayushg" /> </p>
 
 - 🎓 Integrated B.Tech and MBA at [ABV-IIITM, Gwalior](http://www.iiitm.ac.in/index.php/en/)
-- 🏢 Software Engineer at [Vedantu](https://www.vedantu.com/)
+- 🏢 Software Engineer at [PW](https://www.pw.live/)
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/)
 - 👨‍💻 All of my projects are available [here](https://github.com/asayushg?tab=repositories)
 - 💬 Ask me about <b>JAVA, Kotlin, and Android Development</b>
 - - 📫 How to reach me: 
      - Personal: asayushg@gmail.com
      - College: img_2017015@iiitm.ac.in
-     - Work: saini.ayush@vedantu.com
+     - Work: ayush.saini@pw.live
 -<br>
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=asayushg&count_private=true&show_icons=true&theme=highcontrast)
